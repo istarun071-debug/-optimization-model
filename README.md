@@ -25,4 +25,12 @@ The final deliverable is a Jupyter Notebook that clearly demonstrates the end-to
 
 In conclusion, this project equips interns with hands-on experience in mathematical modeling, computational optimization, and data-driven decision-making. It demonstrates the practical application of linear programming to real-world business scenarios and emphasizes the importance of translating analytical results into actionable insights. Successfully completing this task provides a strong foundation for careers in operations research, business analytics, supply chain management, and related fields, while also fulfilling the requirements of the internship at CodTech.
 
-outout of the task :
+output of the task :
+
+<img width="1068" height="826" alt="Image" src="https://github.com/user-attachments/assets/07c42107-6d94-4fcd-8fc9-6ba46924d768" />
+
+<img width="1030" height="760" alt="Image" src="https://github.com/user-attachments/assets/a5cbf6e1-0573-4feb-b111-972cb7ead60f" />
+
+<img width="937" height="656" alt="Image" src="https://github.com/user-attachments/assets/06ad527e-6cc3-4735-bea3-66d1d9e0513f" />
+
+<img width="1038" height="435" alt="Image" src="https://github.com/user-attachments/assets/a5cb4253-c713-4b7e-906e-08fafdca377e" />
